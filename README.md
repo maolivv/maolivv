@@ -25,7 +25,7 @@ I have experience developing web applications with Django/PostgreSQL/Bootstrap5,
 <br />
 <br />
 </i>
-###  Sobre
+### Sobre
 <i>
 <br />
 
