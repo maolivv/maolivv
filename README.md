@@ -18,7 +18,7 @@
 <br />
 
 > Hi everyone! I'm a engineer student in the second year of university.
-I have experience developing web applications with Django/PostgreSQL/Bootstrap5, desktop applications with C#.NET Windows Forms and SQLite as database and currently diving more deeply in ML and the Data Science field in general as well as cloud computing with AWS.
+I have experience developing web applications using Node and Express for API, React in the front-end and PostgreSQL as database, desktop applications with C#.NET Windows Forms and SQLite as database and currently diving more deeply in ML and the Data Science field in general as well as cloud computing with AWS.
 
 > I'm also a Tech Manager in a extension program called REBRAMIM (Rede Brasileira de Manufatura Inteligente de Metais e Materiais) where I could gain experience leading a team of developers, partaking in meetings with clients and develop even further my skills as a programmer since I also take an active role on the development process myself.
 > I also have a strong interest in finance, aiming to merge my programming knowledge with it so I can make more accurate analysis as I improve my skills. Still a newbie tho, but looking to improve myself everyday.
