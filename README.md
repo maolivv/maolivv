@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-#### Software Engineer | Python | Django | Bootstrap 5 | PostgreSQL | MongoDB | C#.NET | ASP.NET MVC | AWS | SQLite
+#### Software Engineer | Node | Express | React | PostgreSQL | MongoDB | C#.NET | ASP.NET MVC | AWS | SQLite
 <i>(Barra Mansa, RJ - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/marcelog196)
