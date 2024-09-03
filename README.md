@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-#### Software Engineer | Node | Express | React | PostgreSQL | MongoDB | C#.NET | ASP.NET MVC | AWS | SQLite
+#### Software Engineer | Python | R | PyTorch | PostgreSQL | MongoDB | MySQL | PySpark | AWS | Azure
 <i>(Barra Mansa, RJ - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/marcelog196)
@@ -18,7 +18,7 @@
 <br />
 
 > Hi everyone! I'm a engineer student in the second year of university.
-I have experience developing web applications using Node and Express for API, React in the front-end and PostgreSQL as database, desktop applications with C#.NET Windows Forms and SQLite as database and currently diving more deeply in ML and the Data Science field in general as well as cloud computing with AWS.
+I have experience developing web applications using Java Spring Boot for back-end, React in the front-end and PostgreSQL as database, desktop applications with C#.NET Windows Forms and SQLite as database and currently diving more deeply in ML and the Data Science field in general as well as cloud computing with AWS.
 
 > I'm also a Tech Manager in a extension program called REBRAMIM (Rede Brasileira de Manufatura Inteligente de Metais e Materiais) where I could gain experience leading a team of developers, partaking in meetings with clients and develop even further my skills as a programmer since I also take an active role on the development process myself.
 > I also have a strong interest in finance, aiming to merge my programming knowledge with it so I can make more accurate analysis as I improve my skills. Still a newbie tho, but looking to improve myself everyday.
@@ -31,7 +31,7 @@ I have experience developing web applications using Node and Express for API, Re
 <br />
 
 > Olá gente, meu nome é Marcelo, tenho 23 anos e sou estudante de Engenharia no secundo ano de faculdade.
-Tenho experiência desenvolvendo aplicações web com Node e Express para criação de API, React no front-end e PostgreSQL como banco de dados, aplicações desktop com C#.NET Windows Forms usando SQLite como base de dados e recentemente, me aprofundando mais em Machine Learning e Ciência de Dados num geral, assim como computação na nuvem com AWS (tendo que aprender para a implementação de um projeto recente) que acredito que podem surgir várias possibilidades de uso na minha carreira a medida que eu for evoluindo.
+Tenho experiência desenvolvendo aplicações web com Java Spring Boot no back-end, React no front-end e PostgreSQL como banco de dados, aplicações desktop com C#.NET Windows Forms usando SQLite como base de dados e recentemente, me aprofundando mais em Machine Learning e Ciência de Dados num geral, assim como computação na nuvem com AWS (tendo que aprender para a implementação de um projeto recente) que acredito que podem surgir várias possibilidades de uso na minha carreira a medida que eu for evoluindo.
 
 > Eu atuo como Gerente Técnico do Programa de Extensão chamado REBRAMIM (Rede Brasileira de Manufatura Inteligente de Metais e Materiais) onde pude ganhar experiência liderando um time de desenvolvedores, participando de reuniões com clientes e tomadas de decisões importantes e desenvolvendo ainda mais minhas habilidades como programador, já que participo ativamente do desenvolvimento também.
 > Também possuo um grande interesse em finanças, almejando num futuro próximo alinhar minhas habilidades em programação e estatística aplicando-as no mercado financeiro para as minhas finanças pessoais. Tenho um pouco de experiência investindo em renda fixa e variável, embora ainda seja um iniciante.
